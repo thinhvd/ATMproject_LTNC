@@ -9,7 +9,7 @@
 using namespace std;
 
 class Account{
-public:
+private:
     string id;
     string pass;
     int soDu;
